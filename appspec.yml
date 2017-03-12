@@ -2,4 +2,4 @@ version: 0.0
 os: linux
 files:
   - source: /Zombie-0.0.1-SNAPSHOT.war
-    destination: /var/lib/tomcat8/webapps
+    destination: /home/ec2-user
